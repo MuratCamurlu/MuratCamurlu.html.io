@@ -48,6 +48,9 @@ main>img{
     margin: auto;
     border-radius: 20px;
 }
+.search:hover{
+    box-shadow: rgb(194, 189, 189) 3px 2px 3px 3px;
+}
 
 .search>img{
     width: 1rem;
